@@ -15,4 +15,5 @@ Eq. 15 in terms of radius. We do this by comparing eq.10 to the Schwarzchild met
 Let <img src="https://render.githubusercontent.com/render/math?math=e^{\lambda}=\frac{1}{1-\frac{2M}{r}}, \qquad -e^{\nu (r)}=-(1-\frac{2M}{r})"> 
 <img src="https://render.githubusercontent.com/render/math?math=$.$">
 Find <img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\prime ^2}">
-
+<img src="https://render.githubusercontent.com/render/math?math=\nu (r)= \ln (1-\frac{2M}{r})">
+<img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\prime}= \frac{-2M}{r^2 - 2Mr} \qquad \therefore \qquad \nu (r)^{\prime ^2}=\frac{4M^2}{(r^2 -2Mr)^2}">
