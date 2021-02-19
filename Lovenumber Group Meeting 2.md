@@ -17,4 +17,4 @@ Let <img src="https://render.githubusercontent.com/render/math?math=e^{\lambda}=
 Find <img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\prime ^2}">
 <img src="https://render.githubusercontent.com/render/math?math=\nu (r)= \ln (1-\frac{2M}{r})">
 <img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\prime}= \frac{-2M}{r^2 - 2Mr} \qquad \therefore \qquad \nu (r)^{\prime ^2}=\frac{4M^2}{(r^2 -2Mr)^2}">
-Now <img src="https://render.githubusercontent.com/render/math?math=f(r)=\frac{2}{r}%2B\frac{1}{1-\frac{2M}{r}} ">
+Now <img src="https://render.githubusercontent.com/render/math?math=f(r)=\frac{2}{r}%2B\frac{1}{1-\frac{2M}{r}}(\frac{2M}{r^2}%2B4\pi r(p-\rho) ">
