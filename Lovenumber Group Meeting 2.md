@@ -18,4 +18,4 @@ Find <img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\p
 <img src="https://render.githubusercontent.com/render/math?math=\nu (r)= \ln (1-\frac{2M}{r})">
 <img src="https://render.githubusercontent.com/render/math?math=\nu (r)^{\prime}= \frac{-2M}{r^2 - 2Mr} \qquad \therefore \qquad \nu (r)^{\prime ^2}=\frac{4M^2}{(r^2 -2Mr)^2}">
 Now <img src="https://render.githubusercontent.com/render/math?math=f(r)=\frac{2}{r}%2B\frac{1}{1-\frac{2M}{r}}(\frac{2M}{r^2}%2B4\pi r(p-\rho) ">
-<img src="https://render.githubusercontent.com/render/math?math=g(r)=\frac{-6}{r^2}(\frac{1}{1-\frac{2M}{r}})%2B4\pi (\frac{1}{1-\frac{2M}{r}}(5\rho%2B9p%2B\frac{\rho%2Bp}{dp/d\rho})-(\frac{4M^2}{(r^2 -2Mr)^2} ">
+<img src="https://render.githubusercontent.com/render/math?math=g(r)=\frac{-6}{r^2}(\frac{1}{1-\frac{2M}{r}})%2B4\pi (\frac{1}{1-\frac{2M}{r}})(5\rho%2B9p%2B\frac{\rho%2Bp}{dp/d\rho})-\frac{4M^2}{(r^2 -2Mr)^2} ">
